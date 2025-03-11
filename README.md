@@ -54,9 +54,6 @@ The model is evaluated using the following metrics:
 📌 Mean Squared Error (MSE) – Measures average squared difference between actual & predicted values.
 📌 Root Mean Squared Error (RMSE) – Measures standard deviation of residuals (prediction errors).
 
-Visualization
-The model generates a scatter plot comparing actual vs predicted scores.
 
-<p align="center"> <img src="scatter_plot.png" alt="Actual vs Predicted Scores" width="500"> </p>
 Conclusion
 This project demonstrates how Linear Regression can predict student performance based on study hours and previous scores. Educators can use this model to identify struggling students early and provide targeted academic support.
