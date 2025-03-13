@@ -13,12 +13,19 @@ Previous Scores: The student's past exam performance.
 The model helps identify students at risk of poor performance and allows educators to take timely actions to improve learning outcomes.
 
 Features of the Project
+
 This project includes:
+
 ✔️ Automatic dataset loading in Google Colab after user uploads the file.
+
 ✔️ Feature extraction from student data (Study Hours, Previous Scores).
+
 ✔️ Data Splitting: 80% training & 20% testing.
+
 ✔️ Linear Regression Model for score prediction.
+
 ✔️ Model evaluation metrics:
+
 
 Mean Absolute Error (MAE)
 Mean Squared Error (MSE)
@@ -51,12 +58,19 @@ Step 6: Evaluate performance using:
 Mean Absolute Error (MAE)
 Mean Squared Error (MSE)
 Root Mean Squared Error (RMSE)
+
 Step 7: Plot Actual vs Predicted Scores.
+
 Model Evaluation Metrics
+
 The model is evaluated using the following metrics:
+
 📌 Mean Absolute Error (MAE) – Measures average absolute difference between actual & predicted values.
+
 📌 Mean Squared Error (MSE) – Measures average squared difference between actual & predicted values.
+
 📌 Root Mean Squared Error (RMSE) – Measures standard deviation of residuals (prediction errors).
+
 
 
 Conclusion
