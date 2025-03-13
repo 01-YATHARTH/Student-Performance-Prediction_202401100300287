@@ -1,5 +1,9 @@
 Student Performance Prediction
+
+
 Problem Statement
+
+
 In the education system, predicting student performance is essential for early intervention and academic planning. Teachers, parents, and educational institutions can benefit from a model that forecasts final exam scores based on students' study habits and previous academic records.
 
 This project builds a Machine Learning model using Linear Regression to predict students' final exam scores based on two key factors:
